@@ -5,3 +5,7 @@ The app has been developed only for practice purposes but it does implements mos
 Just fork the repository and start testing your personality.
 
 ## App Screenshots
+<img src="images/QuizAppSS1.png" height="500px">
+<img src="images/QuizAppSS2.png" height="500px">
+<img src="images/QuizAppSS3.png" height="500px">
+<img src="images/QuizAppSS4.png" height="500px">
